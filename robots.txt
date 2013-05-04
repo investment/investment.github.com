@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://investment.github.io/sitemap.xml 
