@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[投資 Blog]]></title>
-  <link href="http://investment.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 投資苑 | 投資 Blog]]></title>
+  <link href="http://investment.github.io/blog/categories/tou-zi-yuan/atom.xml" rel="self"/>
   <link href="http://investment.github.io/"/>
   <updated>2013-05-06T17:09:23+09:00</updated>
   <id>http://investment.github.io/</id>
@@ -109,36 +109,6 @@
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[自己紹介]]></title>
-    <link href="http://investment.github.io/blog/2013/05/04/note/"/>
-    <updated>2013-05-04T13:21:00+09:00</updated>
-    <id>http://investment.github.io/blog/2013/05/04/note</id>
-    <content type="html"><![CDATA[<ul>
-<li><p>名前<br/>
-TKO</p></li>
-<li><p>略歴<br/>
-2009:某国立大学院物理学科博士課程卒業(理学博士)<br/>
-現在:東京のIT企業勤務</p></li>
-<li><p>投資経験 (2013年現在)<br/>
-株式投資:8年<br/>
-FX:7年<br/>
-個人向け国債:5年<br/>
-投資信託:4年</p></li>
-</ul>
-
-
-<p>ライブドア・ショック、リーマンショックを乗り越え
-現在も投資を継続中。3年前くらいから年間の収支がプラスになりはじめる。
-分析らしい分析はほとんどせず、テクニカル分析と時事ニュースを軸に直感で投資。</p>
-
-<p>大学院で学んだ知識は業務にはほぼ結びつかず。
-知識を投資に向けようと思いたちブログにまとめ始める。
-金融系は学んでいないが、プログラミングや分析には興味があるので
-独学で少しずつスマートな投資方法を身につけていきたい。</p>
 ]]></content>
   </entry>
   
